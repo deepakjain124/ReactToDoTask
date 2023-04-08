@@ -1,0 +1,16 @@
+.tabs-design{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.usertable{
+    width: 100%;
+    position:absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.addModal .label{
+    font-size: 20px;
+}
